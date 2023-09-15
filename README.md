@@ -6,7 +6,7 @@
 Studied genetics and discovered bioinformatics during my MSc, when I started working with archaeogenomics data.
 
 * 🌍  I'm based in Portugal  
-* 🌱  I'm currently learning **Python** and **Web dev**  
+* 🌱  I'm currently learning **Python**    
 
 ### Skills
 

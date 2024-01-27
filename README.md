@@ -12,6 +12,8 @@ Studied genetics and discovered bioinformatics during my MSc, when I started wor
 
 
 <p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
@@ -24,6 +26,5 @@ Studied genetics and discovered bioinformatics during my MSc, when I started wor
 
 ### My stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindysarmento&show_icons=true&theme=highcontrast&locale=en" alt="cindysarmento" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cindysarmento&theme=highcontrast" alt="cindysarmento" /></p>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=cindysarmento&show_icons=true&theme=highcontrast&locale=en" alt="cindysarmento" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cindysarmento&theme=highcontrast" alt="cindysarmento" />
+</p>
